@@ -4,7 +4,8 @@ const { width } = Dimensions.get('window')
 
 const styles = StyleSheet.create({
   container: {
-    flex: 1
+    flex: 1,
+    backgroundColor: '#F9FAFC'
   },
   toolbarWrapper: {
     flex: 1,
